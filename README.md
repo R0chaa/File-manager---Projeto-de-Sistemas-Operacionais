@@ -2,7 +2,7 @@
 
  Projeto para a disciplina de Sistemas Operacionais durante o 4º semestre de Ciência da Computação da Universidade Presbiteriana Mackenzie.
 
- Código desenvolvido em C e C++ utilizando ponteiros e uma árvore de estrutura de dados para armazenamento dos dados.
+ Código desenvolvido em C++ utilizando ponteiros e uma árvore de estrutura de dados para armazenamento dos dados.
 
  ## Os estudante responsáveis pelo desenvolvimento são:
 
