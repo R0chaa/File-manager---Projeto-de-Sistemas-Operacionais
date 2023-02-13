@@ -15,7 +15,7 @@
 
  Para executar o projeto na sua máquina local, basta seguir os passos abaixo:
 
- ## Começando...
+ ### Começando...
 
  Inicialmente, você deve clonar o repositório do projeto na sua máquina.
 
